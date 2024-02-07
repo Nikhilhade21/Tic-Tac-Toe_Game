@@ -10,7 +10,6 @@ const PLAYERS = {
   O: 'Player 2',
 }
 
-
 const INITIAL_GAME_BOARD = [
   [null, null, null],
   [null, null, null],
